@@ -1,0 +1,150 @@
+/**** Start Default Theme ****/
+
+/* Active Link */
+
+
+.carousel-indicators .active,
+.option-box .gear-check
+{
+    background-color:#009AFF;
+}
+
+.option-box .color-option,
+.testimonials .carousel-indicators li.active
+{
+    border: 3px solid #009AFF;
+}
+.nav-menu .menu-active  a {
+color: #009AFF;
+}
+.nav-menu li:hover  a{
+	color:#009AFF;
+}
+.name{
+	color: #009AFF;
+}
+#header #logo h1 a, #header #logo h1 a:hover{
+	border-left: 4px solid #009AFF;
+}
+#intro .btn-get-started {
+	background: #009AFF;
+	
+}
+#intro .btn-get-started:hover {
+  background: #fff;
+  color:#009AFF ;
+}
+.nav-menu ul li:hover > a {
+  color: #009AFF;
+}
+#mobile-nav ul .menu-has-children i.fa-chevron-up {
+  color: #009AFF;
+}
+#mobile-nav ul .menu-item-active {
+  color:#009AFF;
+}
+.back-to-top {
+	 background: #009AFF;
+}
+.section-header h3::after {
+	background: #009AFF;
+}
+#featured-services i {
+  color: #009AFF;
+}
+#featured-services h4 a:hover {
+  color: #009AFF;
+}
+#about .about-col .icon {
+	background-color: #009AFF;
+}
+#about .about-col h2 a:hover {
+  color: #009AFF;
+}
+#about .about-col:hover i {
+    color: #009AFF;
+}
+#services .icon i {
+  color: #009AFF;
+}
+#services .box:hover .title a {
+  color: #009AFF;
+}
+
+#call-to-action .cta-btn:hover {
+  background: #009AFF;
+  border: 2px solid #009AFF;
+}
+#facts .counters span {
+	 color: #009AFF;
+}
+#portfolio #portfolio-flters li:hover, #portfolio #portfolio-flters li.filter-active {
+  background:#009AFF;
+  
+}
+#portfolio .portfolio-item figure .link-preview:hover, #portfolio .portfolio-item figure .link-details:hover {
+  background: #009AFF;
+}
+#portfolio .portfolio-item .portfolio-info h4 a:hover {
+  color: #009AFF;
+}
+#clients .owl-dot.active {
+  background-color: #009AFF;
+}
+#testimonials .owl-dot.active {
+    background-color: #009AFF;
+}
+#contact .contact-info i {
+	 color: #009AFF;
+}
+#contact .contact-info a:hover {
+  color: #009AFF;
+}
+#contact .form #sendmessage {
+  color: #009AFF;
+  border: 1px solid #009AFF;
+}
+a {
+    color: #009AFF;
+}
+#contact .form button[type="submit"] {
+  background: #009AFF;
+}
+.btn {
+    background-color: #009AFF;
+}
+#footer .footer-top .footer-info h3 {
+	 border-left: 4px solid #009AFF;
+}
+#footer .footer-top .social-links a:hover {
+  background: #009AFF;
+}
+#footer .footer-top h4::after {
+  background: #009AFF;
+}
+#footer .footer-top .footer-links ul a:hover {
+  color: #009AFF;
+}
+#footer .footer-top .footer-newsletter input[type="submit"] {
+  background: #009AFF;
+}
+.popup .content {
+	color:#009AFF;
+}
+.popup .close:hover {
+  color: #009AFF;
+}
+.button {
+    border: 1px solid #009AFF;
+}
+.button:hover {
+    background: #009AFF;
+}
+#footer .footer-top .footer-info h3 {
+    border-left: 4px solid #009AFF;
+}
+.nicescroll-cursors{
+	 background-color:#009AFF;
+}
+
+/**** End Default Theme ****/
